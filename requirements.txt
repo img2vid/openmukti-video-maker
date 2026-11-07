@@ -1,0 +1,2 @@
+Pillow>=11,<14
+sounddevice>=0.5,<0.6
